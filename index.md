@@ -6,7 +6,7 @@
 
 1.6.4 / 1.7.10 に対応しています。
 
-※ LotTweaks for 1.12.2 は こちら → https://lotqwerty.github.io/LotTweaks/
+※ LotTweaks for 1.12.2 は こちら → [https://lotqwerty.github.io/LotTweaks/](https://lotqwerty.github.io/LotTweaks/)
 
 
 ## ダウンロード
